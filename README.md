@@ -1,5 +1,3 @@
 - Hi, I’m @BeyondeLimit
-- I’m interested in Mobile and game development!
-- I’m currently learning SwiftUI
-- I’m looking to collaborate on iOS or Flutter project!
+- I’m highly interested in Mobile (native iOS) and cross-platform (Flutter/Dart) developemnt!
 - How to reach me votemap62@gmail.com
